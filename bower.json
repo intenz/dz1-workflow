@@ -1,0 +1,8 @@
+{
+  "name": "site",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "1.11",
+    "normalize-strings": "normalize#~1.0.4"
+  }
+}
